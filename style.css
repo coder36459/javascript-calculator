@@ -1,0 +1,18 @@
+footer{
+padding:2em 0 3em;
+text-align:center;
+}
+a {
+color:#f60;
+text-decoration:none;
+}
+#display{
+text-align:right;
+width:16em;
+}
+#equals{
+width:13em;
+}
+.btn{
+width:3em;
+}
